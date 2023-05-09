@@ -1,0 +1,19 @@
+.container{
+   display: inline-block;
+   border: #000000 3px solid;
+   border-radius: 20px;
+   width: 500px;
+   height: 350px;
+   margin: 5px;
+}
+.container img{
+    max-width: 300px;
+}
+
+.container h3{
+   font-size: 20px;
+   color: black;
+}
+.h5 {
+   color: black;
+}

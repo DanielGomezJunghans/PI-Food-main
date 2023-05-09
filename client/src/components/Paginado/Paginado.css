@@ -1,0 +1,28 @@
+.number{
+    width: 30px;
+    height: auto;
+    font-family: inherit;
+    font-weight: 600;
+    font-size: 16px;
+    margin: 5px;
+    border-radius: 8px;
+    cursor: pointer;
+    background: white;
+    color: #ffffff;
+    border-color: #eee;
+    text-align: center;
+
+}
+
+.paginado{
+    display:flex;
+    justify-content: center;
+    margin-top: 3rem;
+}
+
+.button{
+    font-weight: 900;
+    border-color: #101010;
+    background: white;
+    color: #101010;
+}

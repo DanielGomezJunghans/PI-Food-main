@@ -1,0 +1,103 @@
+.bodyCreate {
+   
+    background-size: 100%;
+    color: #000000;
+    font-family: Roboto, sans-serif;
+    font-size: 16px;
+  }
+  
+
+  .h1Letra{
+    color: #0a0a23;
+  }
+
+
+  form {
+    
+    width: 60vw;
+    max-width: 600px;
+    min-width: 300px;
+    margin: 0 auto;
+    padding-bottom: 2em;
+    background-color: #a9a1c0;
+    border-radius: 10px;
+
+  }
+
+  .formName,
+  .formImage,
+  .formSummary,
+  .formSummary,
+  .formSteps
+  {
+    display: flex;
+    border: none;
+    padding: 2rem 0;
+    padding-left: 18%;
+    border-bottom: 6px solid #FAF8F5;
+    align-items: center;
+  }
+  .formDiets{
+      display: flex;
+      border: none;
+      padding: 2rem 0;
+
+      padding-left: 18%;
+  }
+
+  input, textarea {
+    background-color: white;
+    border: 1px solid #0a0a23;
+    color: #0a0a23;
+    border-radius: 6px;
+  }
+  .divDiet{
+display: flex;
+margin:3px;
+padding:5px;
+align-items: center;
+justify-content: center;
+  }
+
+  .botonX{
+    margin: 4px; 
+    
+  }
+  
+  .buttonForm {
+    display: block;
+    min-width: 130px;
+    margin: 1em auto;
+    height: 2em;
+    font-size: 1.1rem;
+    background-color: white;
+    border-color: #000000;
+    cursor: pointer;
+    color: #0a0a23;
+    border-radius: 6px
+  }
+
+  label {
+    display: flex;
+    margin-right: 3%;
+  }
+
+  .return{
+    display: flex;
+    justify-content: center;
+    margin-top: 1.5em;
+  }
+
+  .butonReturn{
+    min-width: 130px;
+    height: 2em;
+    font-size: 1.1rem;
+    background-color: white;
+    border-color: #000000;
+    color: #0a0a23;
+    border-radius: 6px;
+    cursor: pointer;
+  }
+  
+
+  
